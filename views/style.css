@@ -1,13 +1,15 @@
 body {
     margin: 0;
     background-size: cover;
-/*    display: flex;*/
+	/*display: flex;*/
     height: 100vh;
-/*    justify-content: center;*/
-/*    min-width: 250px;*/
+	/*justify-content: center;*/
+	/*min-width: 250px;*/
     font-family: sans-serif;
     background-attachment: fixed;
-    background: #51847f;
+   	 /*changes to the color and font-size*/
+    background: yellow;
+    font-size: 20px;
 }
 
 /* padding and margins */
